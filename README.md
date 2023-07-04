@@ -38,13 +38,13 @@
 
 ## Recent iOS Projects
 
-### <a href="https://github.com/DvnKiOS/PanaceaPTCBPrep">Panacea: PTCB Prep</a>
+### <a href="https://apps.apple.com/us/app/panacea-ptcb-prep/id6446777025">Panacea: PTCB Prep</a>
 ## Sucess starts with prep, Get ready for the Pharmacy Technican Certication Exam with Panacea!
 
 - Programmatic UI Design 
 - UIKit
 - AVFoundation 
-- Voice Regonition
+- Speech for Voice Regonition
 - SCLAlertView
 - MVC
 - User Defaults
@@ -58,7 +58,7 @@
 
 
 
-### <a href="https://github.com/DvnKiOS/PickITTicket">PickiTTicket: Inventory Helper</a>
+### <a href="https://apps.apple.com/us/app/pickit-pharmacy-helper/id6448812590">PickiTTicket: Inventory Helper</a>
 ## Stay on top of your Pharmacy's Inventory With PickIT!
 
 - Programmatic UI Elements
