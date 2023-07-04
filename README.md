@@ -58,7 +58,7 @@
 
 
 
-### <a href="https://apps.apple.com/us/app/pickit-pharmacy-helper/id6448812590">PickiTTicket: Inventory Helper</a>
+### <a href="https://github.com/DvnKiOS/PickITTicket">PickiTTicket: Inventory Helper</a>
 ## Stay on top of your Pharmacy's Inventory With PickIT!
 
 - Programmatic UI Elements
