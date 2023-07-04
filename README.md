@@ -44,7 +44,7 @@
 - Programmatic UI Design 
 - UIKit
 - AVFoundation 
-- Speech for Voice Regonition
+- Voice Regonition
 - SCLAlertView
 - MVC
 - User Defaults
