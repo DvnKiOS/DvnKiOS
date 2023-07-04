@@ -38,7 +38,7 @@
 
 ## Recent iOS Projects
 
-### <a href="https://apps.apple.com/us/app/panacea-ptcb-prep/id6446777025">Panacea: PTCB Prep</a>
+### <a href="https://github.com/DvnKiOS/PanaceaPTCBPrep">Panacea: PTCB Prep</a>
 ## Sucess starts with prep, Get ready for the Pharmacy Technican Certication Exam with Panacea!
 
 - Programmatic UI Design 
