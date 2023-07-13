@@ -2,7 +2,7 @@
 ## An iOS Developer from Upstate New York
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=iOS+Developer;Certified+Pharmacy+Technican;Looking+for+an+iOS+Developer+Position)](https://git.io/typing-svg)
 - 🔭 I’m currently working on **Panacea: PTCB Prep**
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m currently learning **SwiftUI & Kotlin **
 - 💬 Ask me about **Swift, Xcode, iPhones, and Pokemon!**
 - 📫 How to reach me: **DvnKiOS@gmail.com**
 - ⚡ Fun fact: **Im a huge fan of Old School Runescape and Nintendo**
