@@ -1,10 +1,10 @@
 # Hi, I'm Devin!  
 ## An iOS Developer from Upstate New York
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=iOS+Developer;Certified+Pharmacy+Technican;Looking+for+an+iOS+Developer+Position)](https://git.io/typing-svg)
-- 🔭 I’m currently working on **Panacea: PTCB Prep**
-- 🌱 I’m currently learning **SwiftUI & Kotlin & Front end Development**
+- 🔭 I’m currently working as an **iOS Developer on a project for Yamaha**
+- 🌱 I’m currently learning **Java and Kotlin**
 - 💬 Ask me about **Swift, Xcode, iPhones, and Pokemon!**
-- 📫 How to reach me: **DvnKiOS@gmail.com**
+- 📫 How to reach me: **DvnCodes@Gmail.com**
 - ⚡ Fun fact: **Im a huge fan of Old School Runescape and Nintendo**
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
