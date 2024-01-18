@@ -1,7 +1,7 @@
 # Hi, I'm Devin!  
 ## An iOS Developer from Upstate New York
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=iOS+Developer;Certified+Pharmacy+Technican;Looking+for+an+iOS+Developer+Position)](https://git.io/typing-svg)
-- 🔭 I’m currently working as an **iOS Developer**
+- 🔭 I’m currently working as an **iOS Developer and Registered Pharmacy Technician**
 - 🌱 I’m currently learning **Java and Kotlin**
 - 💬 Ask me about **Swift, Xcode, iPhones, and Pokemon!**
 - 📫 How to reach me: **DvnCodes@Gmail.com**
