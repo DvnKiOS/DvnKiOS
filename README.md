@@ -53,7 +53,7 @@
 - Google Ads
 
 
-<img src="https://imgur.com/jxa0M3W" 
+<img src="https://imgur.com/jxa0M3W.png" 
      width="800" 
      align=center />
 ### <a href="https://apps.apple.com/us/app/panacea-ptcb-prep/id6446777025">Panacea: PTCB Prep</a>
