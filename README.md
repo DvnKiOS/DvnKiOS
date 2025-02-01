@@ -36,20 +36,37 @@
 
 ---
 
-## Recent iOS Projects
+## Recent  Projects
 
-### <a href="https://apps.apple.com/us/app/panacea-ptcb-prep/id6446777025">Panacea: PTCB Prep</a>
-## Sucess starts with prep, Get ready for the Pharmacy Technican Certication Exam with Panacea!
+### <a href="https://apps.apple.com/us/app/markmate/id6740438004">MarkMate</a>
+## Customize and Protect your content with MarkMate. 
 
 - Programmatic UI Design 
 - UIKit
+- SwiftUI
 - AVFoundation 
 - Speech for Voice Regonition
 - SCLAlertView
-- MVC
+- MVVM
 - User Defaults
 - UserNotifications
 - Google Ads
+
+
+<img src="https://imgur.com/jxa0M3W" 
+     width="800" 
+     align=center />
+### <a href="https://apps.apple.com/us/app/panacea-ptcb-prep/id6446777025">Panacea: PTCB Prep</a>
+## Sucess starts with prep, Get ready for the Pharmacy Technican Certication Exam with Panacea!
+
+-Programmatic UI Design
+- UIKit Framework
+- AVFoundation for media handling
+- SCLAlertView for enhanced alerts
+- MVC architecture
+- UserDefaults 
+- UserNotifications for timely alerts
+- Google Ads integration
 
 
 <img src="https://i.imgur.com/HvPlK7Z.png" 
@@ -61,14 +78,16 @@
 ### <a href="https://apps.apple.com/us/app/pickit-pharmacy-helper/id6448812590">PickiTTicket: Inventory Helper</a>
 ## Stay on top of your Pharmacy's Inventory With PickIT!
 
+
+
+Features:
 - Programmatic UI Elements
-- UIKit
-- CoreData
-- Exports Tableview data to CSV format for various spreadsheets
-- SCLAlertView
-- MVC 
-- CoreData 
-- JSON
+- UIKit Framework
+- CoreData for efficient data management
+- Export TableView data to CSV format for various spreadsheets
+- SCLAlertView for enhanced alerts
+- MVC architecture
+- JSON parsing for data handling
 
 
 
